@@ -25,8 +25,3 @@ function switchOnCharmFromTip(tip) {
   }
 }
 
-module.exports = {
-  scuberGreetingForFeet,
-  ternaryCheckCity,
-  switchOnCharmFromTip
-};
